@@ -1,0 +1,13 @@
+﻿生成启动时间为 2015/5/28 10:13:35。
+     1>项目“E:\mfc编程\ICONMENU\ICONMENU\ICONMENU.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /l"0x0409" /nologo /fo"Debug\icon.res" icon.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\mfc编程\ICONMENU\Debug\ICONMENU.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\mfc编程\ICONMENU\Debug\ICONMENU.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\mfc编程\ICONMENU\Debug\ICONMENU.lib" /MACHINE:X86 Debug\icon.res
+         Debug\mian.obj
+         ICONMENU.vcxproj -> E:\mfc编程\ICONMENU\Debug\ICONMENU.exe
+     1>已完成生成项目“E:\mfc编程\ICONMENU\ICONMENU\ICONMENU.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.28

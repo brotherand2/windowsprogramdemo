@@ -1,0 +1,16 @@
+﻿  main.c
+e:\mfc编程\dll\strlib\main.c(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+e:\mfc编程\dll\strlib\main.c(31): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strupr. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(259) : 参见“strupr”的声明
+e:\mfc编程\dll\strlib\main.c(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+e:\mfc编程\dll\strlib\main.c(39): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+e:\mfc编程\dll\strlib\main.c(62): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(253) : 参见“stricmp”的声明
+e:\mfc编程\dll\strlib\main.c(68): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+e:\mfc编程\dll\strlib\main.c(79): warning C4133: “函数”: 从“wchar_t *”到“TCHAR *”的类型不兼容
+     正在创建库 E:\mfc编程\DLL\Debug\STRLIB.lib 和对象 E:\mfc编程\DLL\Debug\STRLIB.exp
+  STRLIB.vcxproj -> E:\mfc编程\DLL\Debug\STRLIB.dll

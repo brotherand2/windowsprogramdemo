@@ -1,0 +1,3 @@
+﻿  mianComment.cpp
+e:\mfc编程\ddb\光栅操作\miancomment.cpp(158): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  光栅操作.vcxproj -> E:\mfc编程\DDB\Debug\光栅操作.exe

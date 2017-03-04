@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\mfc编程\ddb\scramble\main.cpp(5): warning C4007: “WinMain”: 必须是“__stdcall”
+e:\mfc编程\ddb\scramble\main.cpp(16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  SCRAMBLE.vcxproj -> E:\mfc编程\DDB\Debug\SCRAMBLE.exe

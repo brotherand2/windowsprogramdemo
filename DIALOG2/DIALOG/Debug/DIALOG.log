@@ -1,0 +1,4 @@
+﻿  mianComment.cpp
+e:\代码\我的代码\windows程序设计\dialog2\dialog\miancomment.cpp(193): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  LINK : 没有找到 E:\代码\我的代码\windows程序设计\DIALOG2\Debug\DIALOG.exe 或上一个增量链接没有生成它；正在执行完全链接
+  DIALOG.vcxproj -> E:\代码\我的代码\windows程序设计\DIALOG2\Debug\DIALOG.exe

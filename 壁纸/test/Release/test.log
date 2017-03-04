@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.cpp(68): warning C4101: “bitmap”: 未引用的局部变量
+main.cpp(250): warning C4101: “szBuffer”: 未引用的局部变量
+main.cpp(406): warning C4101: “directoryNum”: 未引用的局部变量
+main.cpp(407): warning C4101: “fileNum”: 未引用的局部变量
+main.cpp(404): warning C4101: “letterNum”: 未引用的局部变量
+main.cpp(410): warning C4101: “includeSub”: 未引用的局部变量
+main.cpp(405): warning C4101: “firstNum”: 未引用的局部变量
+main.cpp(403): warning C4101: “digitNum”: 未引用的局部变量
+main.cpp(564): warning C4007: “WinMain”: 必须是“__stdcall”
+  正在生成代码
+  已完成代码的生成
+  test.vcxproj -> E:\mfc编程\壁纸\Release\test.exe

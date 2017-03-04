@@ -1,0 +1,10 @@
+time-c.nist.gov(129.6.15.30) NIST,马里兰州盖瑟斯堡
+nist1-macon.macon.ga.us (98.175.203.200) 乔治亚州梅肯
+nist.netservicesgroup.com(64.113.32.5)   密歇根索斯
+nisttime.carsoncity.k12.mi.us(66.219.116.140) 卡森城,密歇根州
+nist1-lnk.binary.net(216.229.0.179) 内布拉斯加州的林肯市
+wwv.nist.gov(24.56.178.140) 24.56.178.140 La Grande,俄勒冈州
+utcnist.colorado.edu(128.138.140.44) 博尔德科罗拉多大学
+ntp-nist.ldsbc.net(198.60.73.8) LDSBC,犹他州盐湖城
+time-nw.nist.gov(131.107.13.100) 华盛顿雷德蒙德微软
+nist-time-server.eoni.com(216.228.192.69) La Grande,俄勒冈州

@@ -1,0 +1,7 @@
+﻿  mianComment.cpp
+  EMF.cpp
+e:\mfc编程\metafile\emf10\emf.cpp(69): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\mfc编程\metafile\emf10\emf.cpp(70): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码...
+e:\mfc编程\metafile\emf10\miancomment.cpp(106): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  EMF10.vcxproj -> E:\mfc编程\METAFILE\Debug\EMF10.exe

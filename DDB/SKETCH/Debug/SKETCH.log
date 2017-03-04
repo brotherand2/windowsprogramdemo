@@ -1,0 +1,5 @@
+﻿  mianComment.cpp
+e:\mfc编程\ddb\sketch\miancomment.cpp(28): warning C4018: “>”: 有符号/无符号不匹配
+e:\mfc编程\ddb\sketch\miancomment.cpp(29): warning C4018: “>”: 有符号/无符号不匹配
+e:\mfc编程\ddb\sketch\miancomment.cpp(157): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  SKETCH.vcxproj -> E:\mfc编程\DDB\Debug\SKETCH.exe

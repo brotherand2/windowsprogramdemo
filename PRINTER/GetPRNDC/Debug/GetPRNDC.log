@@ -1,0 +1,16 @@
+﻿生成启动时间为 2015/6/11 22:34:53。
+     1>项目“E:\mfc编程\PRINTER\GetPRNDC\GetPRNDC.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\mfc编程\printer\getprndc\main.cpp(95): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\mfc编程\printer\getprndc\main.cpp(215): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\mfc编程\PRINTER\Debug\GetPRNDC.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\mfc编程\PRINTER\Debug\GetPRNDC.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\mfc编程\PRINTER\Debug\GetPRNDC.lib" /MACHINE:X86 Debug\GetPRNDC.res
+         Debug\main.obj
+         GetPRNDC.vcxproj -> E:\mfc编程\PRINTER\Debug\GetPRNDC.exe
+     1>已完成生成项目“E:\mfc编程\PRINTER\GetPRNDC\GetPRNDC.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.35

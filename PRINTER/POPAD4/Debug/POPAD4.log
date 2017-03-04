@@ -1,0 +1,3 @@
+﻿  mianComment.cpp
+e:\mfc编程\printer\popad4\miancomment.cpp(1039): warning C4715: “wWinMain”: 不是所有的控件路径都返回值
+  POPAD4.vcxproj -> E:\mfc编程\PRINTER\Debug\POPAD4.exe

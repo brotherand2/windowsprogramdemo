@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "key", "key\key.vcxproj", "{B4A0A984-B9E5-4646-A53A-88C2A344017F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "keyview", "keyview\keyview.vcxproj", "{568A7F31-9D9E-40E5-8266-20BC60A80247}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stockFont", "stockFont\stockFont.vcxproj", "{A7972964-BE15-4965-A428-25E80EE3EF0F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyView2", "KeyView2\KeyView2.vcxproj", "{E3174B62-9BDB-42C5-92B3-1CC7E346D942}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "carpet", "carpet\carpet.vcxproj", "{5BBE657A-9E17-4C55-BF64-7A4777692806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4A0A984-B9E5-4646-A53A-88C2A344017F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B4A0A984-B9E5-4646-A53A-88C2A344017F}.Debug|Win32.Build.0 = Debug|Win32
+		{B4A0A984-B9E5-4646-A53A-88C2A344017F}.Release|Win32.ActiveCfg = Release|Win32
+		{B4A0A984-B9E5-4646-A53A-88C2A344017F}.Release|Win32.Build.0 = Release|Win32
+		{568A7F31-9D9E-40E5-8266-20BC60A80247}.Debug|Win32.ActiveCfg = Debug|Win32
+		{568A7F31-9D9E-40E5-8266-20BC60A80247}.Debug|Win32.Build.0 = Debug|Win32
+		{568A7F31-9D9E-40E5-8266-20BC60A80247}.Release|Win32.ActiveCfg = Release|Win32
+		{568A7F31-9D9E-40E5-8266-20BC60A80247}.Release|Win32.Build.0 = Release|Win32
+		{A7972964-BE15-4965-A428-25E80EE3EF0F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A7972964-BE15-4965-A428-25E80EE3EF0F}.Debug|Win32.Build.0 = Debug|Win32
+		{A7972964-BE15-4965-A428-25E80EE3EF0F}.Release|Win32.ActiveCfg = Release|Win32
+		{A7972964-BE15-4965-A428-25E80EE3EF0F}.Release|Win32.Build.0 = Release|Win32
+		{E3174B62-9BDB-42C5-92B3-1CC7E346D942}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E3174B62-9BDB-42C5-92B3-1CC7E346D942}.Debug|Win32.Build.0 = Debug|Win32
+		{E3174B62-9BDB-42C5-92B3-1CC7E346D942}.Release|Win32.ActiveCfg = Release|Win32
+		{E3174B62-9BDB-42C5-92B3-1CC7E346D942}.Release|Win32.Build.0 = Release|Win32
+		{5BBE657A-9E17-4C55-BF64-7A4777692806}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BBE657A-9E17-4C55-BF64-7A4777692806}.Debug|Win32.Build.0 = Debug|Win32
+		{5BBE657A-9E17-4C55-BF64-7A4777692806}.Release|Win32.ActiveCfg = Release|Win32
+		{5BBE657A-9E17-4C55-BF64-7A4777692806}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

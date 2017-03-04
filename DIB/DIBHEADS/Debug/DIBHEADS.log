@@ -1,0 +1,3 @@
+﻿  DIBFILE.cpp
+e:\mfc编程\dib\dibheads\dibfile.cpp(40): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  DIBHEADS.vcxproj -> E:\mfc编程\DIB\Debug\DIBHEADS.exe

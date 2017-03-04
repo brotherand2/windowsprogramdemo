@@ -1,0 +1,7 @@
+POEPOEMTEXT TEXT "POEPOEX.txt"
+STRINGTABLE 
+BEGIN
+IDS_APPNAME  "STRING TABLE"
+IDS_CAPTION  "String table BY Zeng"
+IDS_ERROR    "Here happen a unknown error"
+END

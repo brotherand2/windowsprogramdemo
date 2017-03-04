@@ -1,0 +1,4 @@
+﻿  EZFONTcpp.cpp
+e:\mfc编程\textandfont\eztest\ezfontcpp.cpp(33): warning C4101: “iPointSize”: 未引用的局部变量
+e:\mfc编程\textandfont\eztest\ezfontcpp.cpp(36): warning C4101: “tm”: 未引用的局部变量
+  FONTROT.vcxproj -> E:\mfc编程\TEXTANDFONT\Debug\FONTROT.exe

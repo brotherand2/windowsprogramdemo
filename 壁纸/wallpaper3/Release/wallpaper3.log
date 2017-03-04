@@ -1,0 +1,30 @@
+﻿  main.cpp
+main.cpp(50): warning C4101: “count”: 未引用的局部变量
+main.cpp(49): warning C4101: “szBuffer”: 未引用的局部变量
+main.cpp(112): warning C4101: “pBackFileName”: 未引用的局部变量
+main.cpp(112): warning C4101: “pCurrentFileName”: 未引用的局部变量
+main.cpp(148): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+main.cpp(152): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+main.cpp(156): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+main.cpp(160): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+main.cpp(259): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(460): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(491): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(680): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+main.cpp(693): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+main.cpp(783): warning C4800: “LRESULT”: 将值强制为布尔值“true”或“false”(性能警告)
+main.cpp(784): warning C4800: “LRESULT”: 将值强制为布尔值“true”或“false”(性能警告)
+main.cpp(785): warning C4800: “LRESULT”: 将值强制为布尔值“true”或“false”(性能警告)
+main.cpp(786): warning C4800: “LRESULT”: 将值强制为布尔值“true”或“false”(性能警告)
+main.cpp(826): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(828): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(855): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+main.cpp(946): warning C4018: “>=”: 有符号/无符号不匹配
+main.cpp(991): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+main.cpp(1026): warning C4018: “<”: 有符号/无符号不匹配
+main.cpp(1007): warning C4101: “rect”: 未引用的局部变量
+main.cpp(1008): warning C4101: “size”: 未引用的局部变量
+  正在生成代码
+e:\mfc编程\壁纸\wallpaper3\main.cpp(1329): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  已完成代码的生成
+  wallpaper3.vcxproj -> E:\mfc编程\壁纸\Release\wallpaper3.exe

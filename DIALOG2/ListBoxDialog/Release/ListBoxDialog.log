@@ -1,0 +1,21 @@
+﻿生成启动时间为 2015/6/4 11:30:35。
+     1>项目“E:\mfc编程\DIALOG2\ListBoxDialog\ListBoxDialog.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _USING_V110_SDK71_ /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(12): warning C4101: “szBuffer”: 未引用的局部变量
+     1>main.cpp(104): warning C4007: “WinMain”: 必须是“__stdcall”
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D _USING_V110_SDK71_ /l"0x0409" /nologo /fo"Release\ListBoxDialog.res" ListBoxDialog.rc 
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1197,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\mfc编程\DIALOG2\Release\ListBoxDialog.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\mfc编程\DIALOG2\Release\ListBoxDialog.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\mfc编程\DIALOG2\Release\ListBoxDialog.lib" /MACHINE:X86 /SAFESEH Release\ListBoxDialog.res
+         Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         ListBoxDialog.vcxproj -> E:\mfc编程\DIALOG2\Release\ListBoxDialog.exe
+     1>已完成生成项目“E:\mfc编程\DIALOG2\ListBoxDialog\ListBoxDialog.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.60

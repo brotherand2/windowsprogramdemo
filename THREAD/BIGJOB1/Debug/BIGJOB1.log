@@ -1,0 +1,3 @@
+﻿  mianComment.cpp
+e:\mfc编程\thread\bigjob1\miancomment.cpp(155): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  BIGJOB1.vcxproj -> E:\mfc编程\THREAD\Debug\BIGJOB1.exe

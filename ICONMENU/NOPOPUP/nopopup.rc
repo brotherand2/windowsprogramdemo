@@ -1,0 +1,83 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+MENUMAIN MENU
+BEGIN
+    MENUITEM "Main：",                       0, INACTIVE
+    MENUITEM "&File",                       IDM_FILE
+    MENUITEM "&Edit",                       IDM_EDIT
+END
+
+MENUFILE MENU
+BEGIN
+    MENUITEM "File：",                       IDM_MAIN, GRAYED
+    MENUITEM "&New",                        IDM_FILE_NEW
+    MENUITEM "&Open",                       IDM_FILE_OPEN
+    MENUITEM "&Save",                       IDM_FILE_SAVE
+    MENUITEM "&Save &As",                   IDM_FILE_SAVEAS
+    MENUITEM "(&Main)",                     IDM_MAIN
+END
+
+MENUEDIT MENU
+BEGIN
+    MENUITEM "Edit：",                       IDM_MAIN, GRAYED
+    MENUITEM "&Undo",                       IDM_EDIT_UNDO
+    MENUITEM "&Copy",                       IDM_EDIT_COPY
+    MENUITEM "&Paste",                      IDM_EDIT_PASTE
+    MENUITEM "&Cut",                        IDM_EDIT_CUT
+    MENUITEM "&Delete",                     IDM_EDIT_DELETE
+    MENUITEM "(&Main)",                     IDM_MAIN
+END
+
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,4 @@
+﻿  mianComment.cpp
+e:\mfc编程\ddb\grafmenu\miancomment.cpp(111): warning C4101: “i”: 未引用的局部变量
+e:\mfc编程\ddb\grafmenu\miancomment.cpp(224): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  GRAFMENU.vcxproj -> E:\mfc编程\DDB\Debug\GRAFMENU.exe

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CLIPBOARDTEXT", "CLIPBOARDTEXT\CLIPBOARDTEXT.vcxproj", "{46759DD5-F258-470E-B184-B08619BA548B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CLIPVIEW", "CLIPVIEW\CLIPVIEW.vcxproj", "{A219DE3E-69EC-4A30-8201-89AE7D7A4568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46759DD5-F258-470E-B184-B08619BA548B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46759DD5-F258-470E-B184-B08619BA548B}.Debug|Win32.Build.0 = Debug|Win32
+		{46759DD5-F258-470E-B184-B08619BA548B}.Release|Win32.ActiveCfg = Release|Win32
+		{46759DD5-F258-470E-B184-B08619BA548B}.Release|Win32.Build.0 = Release|Win32
+		{A219DE3E-69EC-4A30-8201-89AE7D7A4568}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A219DE3E-69EC-4A30-8201-89AE7D7A4568}.Debug|Win32.Build.0 = Debug|Win32
+		{A219DE3E-69EC-4A30-8201-89AE7D7A4568}.Release|Win32.ActiveCfg = Release|Win32
+		{A219DE3E-69EC-4A30-8201-89AE7D7A4568}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

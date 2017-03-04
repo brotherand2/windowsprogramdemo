@@ -1,0 +1,19 @@
+﻿
+项目性能摘要: 
+      706 毫秒  E:\windows程序设计\壁纸\test\test.vcxproj        1 次调用
+                706 毫秒  ResourceCompile                            1 次调用
+
+目标性能摘要: 
+        0 毫秒  SelectCustomBuild                          1 次调用
+        0 毫秒  SelectResourceCompile                      1 次调用
+        0 毫秒  CheckWindowsSDK71A                         1 次调用
+        0 毫秒  _SelectedFiles                             1 次调用
+        0 毫秒  GetReferenceAssemblyPaths                  1 次调用
+        0 毫秒  PlatformPrepareForBuild                    1 次调用
+        1 毫秒  GetResolvedWinMD                           1 次调用
+        1 毫秒  GetFrameworkPaths                          1 次调用
+        3 毫秒  PrepareForBuild                            1 次调用
+        3 毫秒  SetBuildDefaultEnvironmentVariables        1 次调用
+        8 毫秒  _CheckForInvalidConfigurationAndPlatform   1 次调用
+      216 毫秒  SetCABuildNativeEnvironmentVariables       1 次调用
+      471 毫秒  ResourceCompile                            1 次调用

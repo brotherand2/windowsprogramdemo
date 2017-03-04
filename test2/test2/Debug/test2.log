@@ -1,0 +1,17 @@
+﻿生成启动时间为 2015/4/30 22:06:04。
+     1>项目“E:\mfc编程\test2\test2\test2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\mfc编程\test2\test2\test.cpp(11): warning C4244: “参数”: 从“time_t”转换到“unsigned long”，可能丢失数据
+     1>e:\mfc编程\test2\test2\test.cpp(44): warning C4101: “rect”: 未引用的局部变量
+     1>e:\mfc编程\test2\test2\test.cpp(100): warning C4007: “WinMain”: 必须是“__stdcall”
+     1>e:\mfc编程\test2\test2\test.cpp(143): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\mfc编程\test2\Debug\test2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\mfc编程\test2\Debug\test2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\mfc编程\test2\Debug\test2.lib" /MACHINE:X86 Debug\test.obj
+         test2.vcxproj -> E:\mfc编程\test2\Debug\test2.exe
+     1>已完成生成项目“E:\mfc编程\test2\test2\test2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.35

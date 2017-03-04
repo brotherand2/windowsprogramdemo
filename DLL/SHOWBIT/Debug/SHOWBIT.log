@@ -1,0 +1,3 @@
+﻿  mianComment.cpp
+e:\mfc编程\dll\showbit\miancomment.cpp(120): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  SHOWBIT.vcxproj -> E:\mfc编程\DLL\Debug\SHOWBIT.exe

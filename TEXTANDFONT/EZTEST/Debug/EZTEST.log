@@ -1,0 +1,5 @@
+﻿  mianComment.cpp
+  EZFONTcpp.cpp
+  正在生成代码...
+e:\mfc编程\textandfont\eztest\miancomment.cpp(106): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  EZTEST.vcxproj -> E:\mfc编程\TEXTANDFONT\Debug\EZTEST.exe

@@ -1,0 +1,3 @@
+﻿  mianComment.cpp
+e:\mfc编程\dib\dibconv\miancomment.cpp(169): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  DIBCONV.vcxproj -> E:\mfc编程\DIB\Debug\DIBCONV.exe

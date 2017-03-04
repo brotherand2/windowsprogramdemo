@@ -1,0 +1,47 @@
+﻿生成启动时间为 2015/11/15 16:19:12。
+     1>项目“G:\代码\windows程序设计\壁纸\wallpaper4\wallpaper4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _USING_V110_SDK71_ /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(50): warning C4101: “count”: 未引用的局部变量
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(49): warning C4101: “szBuffer”: 未引用的局部变量
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(112): warning C4101: “pBackFileName”: 未引用的局部变量
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(112): warning C4101: “pCurrentFileName”: 未引用的局部变量
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(148): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(152): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(156): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(160): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(262): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(466): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(497): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(686): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(699): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(789): warning C4800: “LRESULT”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(790): warning C4800: “LRESULT”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(791): warning C4800: “LRESULT”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(792): warning C4800: “LRESULT”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(832): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(834): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(861): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(952): warning C4018: “>=”: 有符号/无符号不匹配
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(997): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(1032): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(1013): warning C4101: “rect”: 未引用的局部变量
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(1014): warning C4101: “size”: 未引用的局部变量
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(1361): warning C4101: “bitmap”: 未引用的局部变量
+     1>g:\代码\windows程序设计\壁纸\wallpaper4\main.cpp(1613): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D _USING_V110_SDK71_ /l"0x0409" /nologo /fo"Debug\wallpaper1.res" wallpaper1.rc 
+     1>wallpaper1.rc(208): warning RC4204: ASCII character not equivalent to virtual key code
+         
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\代码\windows程序设计\壁纸\Debug\wallpaper4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\代码\windows程序设计\壁纸\Debug\wallpaper4.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\代码\windows程序设计\壁纸\Debug\wallpaper4.lib" /MACHINE:X86 /PROFILE Debug\wallpaper1.res
+         Debug\main.obj
+     1>LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+     1>main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+         wallpaper4.vcxproj -> G:\代码\windows程序设计\壁纸\Debug\wallpaper4.exe
+     1>已完成生成项目“G:\代码\windows程序设计\壁纸\wallpaper4\wallpaper4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.15

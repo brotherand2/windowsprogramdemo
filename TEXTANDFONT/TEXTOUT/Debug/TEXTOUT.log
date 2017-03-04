@@ -1,0 +1,3 @@
+﻿  mianComment.cpp
+e:\mfc编程\textandfont\textout\miancomment.cpp(127): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  TEXTOUT.vcxproj -> E:\mfc编程\TEXTANDFONT\Debug\TEXTOUT.exe

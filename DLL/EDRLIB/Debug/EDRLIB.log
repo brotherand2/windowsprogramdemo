@@ -1,0 +1,5 @@
+﻿  源.cpp
+e:\mfc编程\dll\edrlib\源.cpp(29): warning C4101: “length”: 未引用的局部变量
+e:\mfc编程\dll\edrlib\源.cpp(36): warning C4101: “length”: 未引用的局部变量
+     正在创建库 E:\mfc编程\DLL\Debug\EDRLIB.lib 和对象 E:\mfc编程\DLL\Debug\EDRLIB.exp
+  EDRLIB.vcxproj -> E:\mfc编程\DLL\Debug\EDRLIB.dll

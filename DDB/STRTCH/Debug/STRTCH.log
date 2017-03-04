@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\mfc编程\ddb\strtch\main.cpp(97): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  STRTCH.vcxproj -> E:\mfc编程\DDB\Debug\STRTCH.exe

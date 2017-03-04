@@ -1,0 +1,3 @@
+﻿  mianComment.cpp
+e:\windows程序设计\dll\strprog\miancomment.cpp(194): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  STRPROG.vcxproj -> E:\windows程序设计\DLL\Debug\STRPROG.exe

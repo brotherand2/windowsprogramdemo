@@ -1,0 +1,8 @@
+#include"resource.h"
+POEPOEMTEXT TEXT "POEPOEM.txt"
+STRINGTABLE 
+BEGIN
+IDS_APPNAME  "STRING TABLE"
+IDS_CAPTIONNAME  "String table BY Zeng"
+IDS_ERROR    "Here happen a unknown error"
+END

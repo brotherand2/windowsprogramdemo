@@ -1,0 +1,15 @@
+﻿  main.cpp
+e:\mfc编程\壁纸\wallpaper2\main.cpp(12): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+e:\mfc编程\壁纸\wallpaper2\main.cpp(16): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+e:\mfc编程\壁纸\wallpaper2\main.cpp(20): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+e:\mfc编程\壁纸\wallpaper2\main.cpp(24): warning C4244: “=”: 从“DWORD64”转换到“unsigned int”，可能丢失数据
+e:\mfc编程\壁纸\wallpaper2\main.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+e:\mfc编程\壁纸\wallpaper2\main.cpp(157): warning C4060: switch 语句没有包含“case”或“default”标签
+e:\mfc编程\壁纸\wallpaper2\main.cpp(311): warning C4018: “<”: 有符号/无符号不匹配
+e:\mfc编程\壁纸\wallpaper2\main.cpp(520): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+e:\mfc编程\壁纸\wallpaper2\main.cpp(535): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\mfc编程\壁纸\wallpaper2\main.cpp(583): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+e:\mfc编程\壁纸\wallpaper2\main.cpp(473): warning C4101: “rect”: 未引用的局部变量
+e:\mfc编程\壁纸\wallpaper2\main.cpp(765): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1197,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+  wallpaper2.vcxproj -> E:\mfc编程\壁纸\Debug\wallpaper2.exe

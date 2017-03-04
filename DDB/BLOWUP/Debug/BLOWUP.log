@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\mfc编程\ddb\blowup\main.cpp(80): warning C4101: “bitmap”: 未引用的局部变量
+e:\mfc编程\ddb\blowup\main.cpp(313): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  BLOWUP.vcxproj -> E:\mfc编程\DDB\Debug\BLOWUP.exe

@@ -1,0 +1,3 @@
+﻿  mianComment.cpp
+e:\mfc编程\dib\apollo11\miancomment.cpp(111): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  APOLLO11.vcxproj -> E:\mfc编程\DIB\Debug\APOLLO11.exe

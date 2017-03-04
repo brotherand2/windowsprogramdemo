@@ -1,0 +1,4 @@
+﻿  mianComment.cpp
+e:\mfc编程\mdi多文档\mdi多文档\miancomment.cpp(320): warning C4002: “CreateWindowW”宏的实参太多
+e:\mfc编程\mdi多文档\mdi多文档\miancomment.cpp(340): warning C4715: “WinMain”: 不是所有的控件路径都返回值
+  MDI多文档.vcxproj -> E:\mfc编程\MDI多文档\Debug\MDI多文档.exe

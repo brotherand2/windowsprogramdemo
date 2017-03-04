@@ -1,0 +1,25 @@
+			int style = GetWindowLong(hEdit, GWL_STYLE);
+			int nFileLength = GetWindowTextLength(hEdit);//返回编辑框字符个数
+			pText = new TCHAR[nFileLength + 1];//保存要写入的字符串,+1是因为\0
+			GetWindowText(hEdit, pText, nFileLength + 1);
+			shared_ptr<TCHAR>sp1(pText, [](TCHAR *p){delete[]p; });//将分配的空间交智能指针管理	
+			if (bAutoLine)
+			{
+				ShowWindow(hStatus, SW_NORMAL);//显示状态栏
+				style =style| WS_HSCROLL;
+
+			}
+			else
+			{
+				style &= ~WS_HSCROLL;
+				style &=~ES_AUTOHSCROLL;
+					ShowWindow(hStatus, SW_HIDE);//隐藏状态栏
+
+			}
+			SetWindowLong(hEdit, GWL_STYLE, style);
+			InvalidateRect(hwnd, nullptr, 0);
+			UpdateWindow(hwnd);
+			InvalidateRect(hEdit, nullptr, 0);
+			UpdateWindow(hEdit);
+			SendMessage(hwnd, WM_SIZE, 0,MAKELONG(cxClient, cyClient));
+			SetWindowText(hEdit, pText);
